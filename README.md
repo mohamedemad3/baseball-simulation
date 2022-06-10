@@ -26,10 +26,3 @@ python simulate_season.py --season=2019 --ntrials=100
 
 Feel free to play with different seasons and/or number of trials.
 
-## Contributing
-
-Please reach out via email or send me a pull request.
-
-## Authors
-
-* **Michael Nestel**
